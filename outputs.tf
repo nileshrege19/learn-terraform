@@ -2,11 +2,11 @@ output "v1" {
   value = var.v1
 }
 
-output "First Value" {
+output "First_Value" {
   value = var.v2[0]
 }
 
-output "Second Value" {
+output "Second_Value" {
   value = var.v1[1]
 }
 
