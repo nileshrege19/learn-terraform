@@ -7,7 +7,7 @@ output "First_Value" {
 }
 
 output "Second_Value" {
-  value = var.v1[1]
+  value = var.v2[1]
 }
 
 output "Value_in_Map" {
